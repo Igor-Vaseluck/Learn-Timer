@@ -1,0 +1,53 @@
+
+
+body{
+    background-color: rgb(201, 167, 73);
+    font-family: 'Oswald', sans-serif;
+}
+h2{
+    color: cornflowerblue;
+}
+.container{
+    width: 60%;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    text-align: center;
+    display: block;
+}
+.times{
+    height: 50px;
+    width: 30%;
+    background-color: #fff;
+    padding-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid #000;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+.btn{
+    width: 20%;
+    cursor: pointer;
+    border-radius: 5px 5px;
+    border: 2px solid #000;
+    background-color: rgb(157, 179, 219);
+}
+.btn:hover{
+    background-color: rgb(145, 136, 136);
+}
+
+.showTimer{
+    margin-top: 20px;
+    height: 30px;
+    width: 30%;
+    display: block;
+    background-color: #fff;
+    line-height: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid #000;
+    border-radius: 10px 10px 10px 10px;
+}
+
